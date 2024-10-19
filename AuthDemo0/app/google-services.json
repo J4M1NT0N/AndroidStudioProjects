@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "460104973797",
+    "project_id": "authdemo0-586af",
+    "storage_bucket": "authdemo0-586af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460104973797:android:7cb51d9bceeb41d46fc30c",
+        "android_client_info": {
+          "package_name": "com.example.authdemo0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVkTmXuWiZtf27pE2h4Ni28BZC5p4HlFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
